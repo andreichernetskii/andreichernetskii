@@ -6,10 +6,13 @@
 </h2> 
 
 <h2>
-  Java Development Projects:
+  Personal Projects:
 </h2>
 
-- <b>Java Spring Boot Projects</b>
-  - [Financial Tracker](https://github.com/andreichernetskii/FinTrackerFrontEnd). ([Deployed](http://23.94.117.251:8081/))
-    <br/>
-    <b>Stack:</b> Java 17, Spring, Spring Boot, Spring Data, Hibernate, PostgreSQL, RESTful API, JUnit, Mockito, JSON Web Token (JWT), Docker, Docker Compose, Maven, GitHub, GitHub Actions, Lombok, Postman, IntelliJ IDEA.
+- [Financial Tracker](https://github.com/andreichernetskii/FinTrackerFrontEnd). ([Deployed](http://23.94.117.251:8081/))
+    <br/> Application for tracking financial resources.
+    <br/> <b>Stack:</b> Java 17, Spring, Spring Boot, Spring Data, Hibernate, PostgreSQL, RESTful API, JUnit, Mockito, JSON Web Token (JWT), Docker, Docker Compose, Maven, GitHub, GitHub Actions, Lombok, Postman, IntelliJ IDEA.
+
+- [PDF Worker App](https://github.com/andreichernetskii/PDF_Worker_App)
+  <br/> JavaFX application for merging and compressing PDF files.
+  <br/> <b>Stack:</b> Java 17, JavaFX, IntelliJ IDEA
