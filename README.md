@@ -9,6 +9,10 @@
   Personal Projects:
 </h2>
 
+- Financial Tracker with microservices architecture.
+    - [Authentication Microservice](https://github.com/andreichernetskii/Auth_Microservice).
+    - [Transactions Microservice](https://github.com/andreichernetskii/Transaction_Microservice).
+
 - [Financial Tracker](https://github.com/andreichernetskii/FinTrackerFrontEnd). ([Deployed](http://23.94.117.251:8081/))
     <br/> Application for tracking financial resources.
     <br/> <b>Stack:</b> Java 17, Spring, Spring Boot, Spring Data, Hibernate, PostgreSQL, RESTful API, JUnit, Mockito, JSON Web Token (JWT), Docker, Docker Compose, Maven, GitHub, GitHub Actions, Lombok, Postman, IntelliJ IDEA.
