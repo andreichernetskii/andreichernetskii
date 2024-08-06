@@ -10,8 +10,8 @@
 </h2>
 
 - Financial Tracker with microservices architecture.
-    - [Authentication Microservice](https://github.com/andreichernetskii/Auth_Microservice). Java, Spring Boot, PostgreSQL, JWT.
-    - [Transactions Microservice](https://github.com/andreichernetskii/Transaction_Microservice). Java, Spring Boot, PostgreSQL.
+    - [Authentication Microservice](https://github.com/andreichernetskii/Authentication_Microservice). Java, Spring Boot, PostgreSQL, JWT with asymmetric encryption.
+    - [Transactions Microservice](https://github.com/andreichernetskii/Transaction_Microservice). Java, Spring Boot, PostgreSQL, JWT token validation.
 
 - [Financial Tracker](https://github.com/andreichernetskii/FinTrackerFrontEnd). ([Deployed](http://23.94.117.251:8081/))
     <br/> Application for tracking financial resources.
