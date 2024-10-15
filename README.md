@@ -10,9 +10,10 @@
 </h2>
 
 - Financial Tracker with microservices architecture.
-    - [Authentication Microservice](https://github.com/andreichernetskii/Authentication_Microservice). Java, Spring Boot, Kafka, MongoDB, JWT with asymmetric encryption.
-    - [Transactions Microservice](https://github.com/andreichernetskii/Transaction_Microservice). Java, Spring Boot, Kafka, PostgreSQL, JWT token validation.
-    - [Limits Microservice](https://github.com/andreichernetskii/Limits_Microservice.git). Java, Spring Boot, Kafka, PostgreSQL, JWT token validation.
+    - [Authentication Microservice](https://github.com/andreichernetskii/Authentication_Microservice). Spring Boot, Kafka, MongoDB, JWT with asymmetric encryption.
+    - [Transactions Microservice](https://github.com/andreichernetskii/Transaction_Microservice). Spring Boot, Kafka, PostgreSQL, JWT token validation.
+    - [Limits Microservice](https://github.com/andreichernetskii/Limits_Microservice.git). Spring Boot, Kafka, PostgreSQL, JWT token validation.
+    - [Financial Analyser](https://github.com/andreichernetskii/FinAnalyser). Spring Boot, Kafka, PostgreSQL, JWT token validation.
 
 - [Financial Tracker](https://github.com/andreichernetskii/FinTrackerFrontEnd). ([Deployed](http://23.94.117.251:8081/))
     <br/> Application for tracking financial resources.
