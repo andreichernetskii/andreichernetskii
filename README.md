@@ -9,7 +9,7 @@
   Personal Projects:
 </h2>
 
-- Financial Tracker with microservices architecture.
+- Financial Tracker with microservices architecture (work in progress).
     - [Authentication Microservice](https://github.com/andreichernetskii/Authentication_Microservice). Spring Boot, Kafka, MongoDB, JWT with asymmetric encryption.
     - [Transactions Microservice](https://github.com/andreichernetskii/Transaction_Microservice). Spring Boot, Kafka, PostgreSQL, JWT token validation.
     - [Limits Microservice](https://github.com/andreichernetskii/Limits_Microservice.git). Spring Boot, Kafka, PostgreSQL, JWT token validation.
@@ -19,7 +19,7 @@
     <br/> Application for tracking financial resources.
     <br/> <b>Stack:</b> Java 17, Spring, Spring Boot, Spring Data, Hibernate, PostgreSQL, RESTful API, JUnit, Mockito, JSON Web Token (JWT), Docker, Docker Compose, Maven, GitHub, GitHub Actions, Lombok, Postman, IntelliJ IDEA.
 
-- [Telegram Bot with Spring Boot](https://github.com/andreichernetskii/Turbo_Drop).
+- [Telegram Bot with Spring Boot](https://github.com/andreichernetskii/Turbo_Drop). (work in progress)
 
 - [PDF Worker App](https://github.com/andreichernetskii/PDF_Worker_App)
   <br/> JavaFX application for merging and compressing PDF files.
