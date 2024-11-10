@@ -6,7 +6,7 @@
 </h2> 
 
 <h2>
-  Personal Projects:
+  Personal Java Projects:
 </h2>
 
 - Financial Tracker with microservices architecture (work in progress).
