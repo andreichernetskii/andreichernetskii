@@ -19,6 +19,11 @@
     <br/> Application for tracking financial resources.
     <br/> <b>Stack:</b> Java 17, Spring, Spring Boot, Spring Data, Hibernate, PostgreSQL, RESTful API, JUnit, Mockito, JSON Web Token (JWT), Docker, Docker Compose, Maven, GitHub, GitHub Actions, Lombok, Postman, IntelliJ IDEA.
 
+- [Telegram Bot with Spring Boot](https://github.com/andreichernetskii/Turbo_Drop).
+
 - [PDF Worker App](https://github.com/andreichernetskii/PDF_Worker_App)
   <br/> JavaFX application for merging and compressing PDF files.
   <br/> <b>Stack:</b> Java 17, JavaFX, IntelliJ IDEA
+
+- [Simple Tetrahedron Render](https://github.com/andreichernetskii/TetrahedronSimpleRender).
+  <br/> A simple tetrahedron render. Only Java. 
