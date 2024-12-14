@@ -11,11 +11,8 @@
 
 - [Telegram Bot with Spring Boot](https://github.com/andreichernetskii/Turbo_Drop). (work in progress)
 
-- Financial Tracker with microservices architecture (work in progress).
-    - [Authentication Microservice](https://github.com/andreichernetskii/Authentication_Microservice). Spring Boot, Kafka, MongoDB, JWT with asymmetric encryption.
-    - [Transactions Microservice](https://github.com/andreichernetskii/Transaction_Microservice). Spring Boot, Kafka, PostgreSQL, JWT token validation.
-    - [Limits Microservice](https://github.com/andreichernetskii/Limits_Microservice.git). Spring Boot, Kafka, PostgreSQL, JWT token validation.
-    - [Financial Analyser](https://github.com/andreichernetskii/FinAnalyser). Spring Boot, Kafka, PostgreSQL, JWT token validation.
+- [Financial Tracker with microservices architecture](https://github.com/andreichernetskii/Financial_Tracker_Microsercvices) (work in progress).
+      <br/> <b>Stack:</b> Spring Boot, Kafka, MongoDB, JWT with asymmetric encryption + validation.
 
 - [Financial Tracker](https://github.com/andreichernetskii/FinTrackerFrontEnd). ([Deployed](http://23.94.117.251:8081/))
     <br/> Application for tracking financial resources.
