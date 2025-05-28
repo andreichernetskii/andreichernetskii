@@ -9,12 +9,12 @@
   Personal Java Projects:
 </h2>
 
-- [Telegram Bot with Spring Boot](https://github.com/andreichernetskii/Turbo_Drop).
+- [Telegram File Storage Bot with Spring Boot and Multiservices](https://github.com/andreichernetskii/Turbo_Drop).
 
 - [Financial Tracker with microservices architecture](https://github.com/andreichernetskii/Financial_Tracker_Microsercvices) (work in progress).
       <br/> <b>Stack:</b> Spring Boot, Kafka, MongoDB, JWT with asymmetric encryption + validation.
 
-- [Financial Tracker](https://github.com/andreichernetskii/FinTrackerFrontEnd). ([Deployed](http://23.94.117.251:8081/))
+- [Financial Tracker](https://github.com/andreichernetskii/FinTrackerBackEnd). ([Deployed](http://23.94.117.251:8081/))
     <br/> Application for tracking financial resources.
     <br/> <b>Stack:</b> Java 17, Spring, Spring Boot, Spring Data, Hibernate, PostgreSQL, RESTful API, JUnit, Mockito, JSON Web Token (JWT), Docker, Docker Compose, Maven, GitHub, GitHub Actions, Lombok, Postman, IntelliJ IDEA.
 
