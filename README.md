@@ -16,7 +16,7 @@
 
 - [Financial Tracker](https://github.com/andreichernetskii/FinTrackerBackEnd). ([Deployed](https://finman-project.duckdns.org/))
     <br/> Application for tracking financial resources.
-    <br/> <b>Stack:</b> Java 17, Spring, Spring Boot, Spring Data, Hibernate, PostgreSQL, RESTful API, JUnit, Mockito, JSON Web Token (JWT), Docker, Docker Compose, Maven, GitHub, GitHub Actions, Lombok, Postman, IntelliJ IDEA.
+    <br/> <b>Stack:</b> Java 17, Spring Boot, Vue.js, Spring Data, Hibernate, PostgreSQL, RESTful API, JUnit, Mockito, JSON Web Token (JWT), Docker, Docker Compose, Maven, GitHub, GitHub Actions, Lombok, Postman, IntelliJ IDEA.
 
 - [PDF Worker App](https://github.com/andreichernetskii/PDF_Worker_App)
   <br/> JavaFX application for merging and compressing PDF files.
