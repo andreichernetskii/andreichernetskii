@@ -1,8 +1,5 @@
 <h2>
     Hi, I'm Andrew!
-    <br/> 
-    <a href="https://github.com/andreichernetskii">Programmer</a>, 
-    <a href="http://linkedin.com/in/andrzej-chernetskii-6b8520102">Java Developer</a>
 </h2> 
 
 <h2>
